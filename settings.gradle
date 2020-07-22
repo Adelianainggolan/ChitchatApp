@@ -1,0 +1,2 @@
+rootProject.name='ChitchatApp'
+include ':app'
